@@ -1,4 +1,4 @@
-Kwaku Owusu	30262851
+Kwaku Owusu	    30262851
 Tunde Bademosi	10074938
 Sikiru Bukola	30023765
 
@@ -7,4 +7,4 @@ This Assignment is about:
 	•Collaborating effectively on a Python coding project
 	•Managing and modify project documentation
 	
-Thanks 
+Thanks  
