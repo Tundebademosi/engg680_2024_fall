@@ -1,6 +1,6 @@
-Kwaku Owusu	
+Kwaku Owusu	30262851
 Tunde Bademosi	10074938
-Sikiru Bukola	
+Sikiru Bukola	30023765
 
 The Assignment about:
 	•Understanding and apply version control techniques
