@@ -7,4 +7,7 @@ This Assignment is about:
 	•Collaborating effectively on a Python coding project
 	•Managing and modify project documentation
 	
-Thanks  
+
+Thanks
+Final content that resolves the conflict
+
